@@ -8,6 +8,8 @@
 
 4) _https://paperswithcode.com/paper/neural-networks-for-stock-price-prediction_
 
+5) _https://paperswithcode.com/paper/stock-forecasting-using-m-band-wavelet-based_
+
 **MORE COMING SOON!**
 
 
